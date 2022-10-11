@@ -1,0 +1,1 @@
+web: gunicorn yola.wsgi --log-file -
